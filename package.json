@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/belohlavek/phaser-es6-boilerplate"
+    "url": "https://github.com/dollarone/phaser-es6-platformer-base-code"
   },
-  "author": "Daniel Belohlavek",
+  "author": "D",
   "license": "MIT",
   "devDependencies": {
     "babelify": "^6.1.3",
